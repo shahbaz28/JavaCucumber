@@ -26,7 +26,7 @@ public class Steps {
 	WebDriver driver = null;
 	@Given("^I have launched Chrome$")
 	    public void I_have_launched_Chrome(){
-		System.setProperty("webdriver.chrome.driver", "D:\\Downloads\\chromedriver_win32\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		ChromeOptions options = new ChromeOptions();
 		options.addArguments("--start-maximized");
 	    driver = new ChromeDriver(options);

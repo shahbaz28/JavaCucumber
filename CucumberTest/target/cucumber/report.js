@@ -119,14 +119,14 @@ formatter.match({
   "location": "Steps.I_have_launched_Chrome()"
 });
 formatter.result({
-  "duration": 1930606919,
+  "duration": 1989603314,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.Navigated_to_the_weather_acceptance_website()"
 });
 formatter.result({
-  "duration": 768772662,
+  "duration": 1040025848,
   "status": "passed"
 });
 formatter.match({
@@ -139,7 +139,7 @@ formatter.match({
   "location": "Steps.I_enter_a_city_name(String)"
 });
 formatter.result({
-  "duration": 615842754,
+  "duration": 633809102,
   "status": "passed"
 });
 formatter.match({
@@ -152,14 +152,14 @@ formatter.match({
   "location": "Steps.I_verify_that_the_correct_city_is_returned(String)"
 });
 formatter.result({
-  "duration": 22995547,
+  "duration": 23784617,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.I_verify_that_the_five_day_forcast_is_displayed()"
 });
 formatter.result({
-  "duration": 176549486,
+  "duration": 195099221,
   "status": "passed"
 });
 formatter.uri('CucumberTest\CucumberTest\ThreeHourlyForecast.feature');
@@ -296,14 +296,14 @@ formatter.match({
   "location": "Steps.I_have_launched_Chrome()"
 });
 formatter.result({
-  "duration": 1946379306,
+  "duration": 1925911496,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.Navigated_to_the_weather_acceptance_website()"
 });
 formatter.result({
-  "duration": 781561195,
+  "duration": 991774696,
   "status": "passed"
 });
 formatter.match({
@@ -316,21 +316,21 @@ formatter.match({
   "location": "Steps.I_enter_a_city_name(String)"
 });
 formatter.result({
-  "duration": 552699427,
+  "duration": 592952718,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_a_day()"
 });
 formatter.result({
-  "duration": 101463353,
+  "duration": 101384528,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.a_three_hourly_forcast_is_returned()"
 });
 formatter.result({
-  "duration": 172713747,
+  "duration": 175250516,
   "status": "passed"
 });
 formatter.scenario({
@@ -379,14 +379,14 @@ formatter.match({
   "location": "Steps.I_have_launched_Chrome()"
 });
 formatter.result({
-  "duration": 1930742810,
+  "duration": 1958037603,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.Navigated_to_the_weather_acceptance_website()"
 });
 formatter.result({
-  "duration": 809291988,
+  "duration": 1054548940,
   "status": "passed"
 });
 formatter.match({
@@ -399,21 +399,21 @@ formatter.match({
   "location": "Steps.I_enter_a_city_name(String)"
 });
 formatter.result({
-  "duration": 647429402,
+  "duration": 660620271,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_a_day()"
 });
 formatter.result({
-  "duration": 111777520,
+  "duration": 111066864,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.a_three_hourly_forcast_is_returned()"
 });
 formatter.result({
-  "duration": 172383668,
+  "duration": 171556005,
   "status": "passed"
 });
 formatter.scenario({
@@ -467,14 +467,14 @@ formatter.match({
   "location": "Steps.I_have_launched_Chrome()"
 });
 formatter.result({
-  "duration": 1961366726,
+  "duration": 1941856312,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.Navigated_to_the_weather_acceptance_website()"
 });
 formatter.result({
-  "duration": 834628472,
+  "duration": 1031264369,
   "status": "passed"
 });
 formatter.match({
@@ -487,28 +487,28 @@ formatter.match({
   "location": "Steps.I_enter_a_city_name(String)"
 });
 formatter.result({
-  "duration": 596142666,
+  "duration": 582225131,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_a_day()"
 });
 formatter.result({
-  "duration": 101227699,
+  "duration": 99610966,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_a_day()"
 });
 formatter.result({
-  "duration": 70334875,
+  "duration": 69011272,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.three_hourly_forecast_should_not_be_visible()"
 });
 formatter.result({
-  "duration": 148291961,
+  "duration": 155915815,
   "status": "passed"
 });
 formatter.scenario({
@@ -562,14 +562,14 @@ formatter.match({
   "location": "Steps.I_have_launched_Chrome()"
 });
 formatter.result({
-  "duration": 1932233096,
+  "duration": 1955394093,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.Navigated_to_the_weather_acceptance_website()"
 });
 formatter.result({
-  "duration": 790291061,
+  "duration": 1025859931,
   "status": "passed"
 });
 formatter.match({
@@ -582,28 +582,28 @@ formatter.match({
   "location": "Steps.I_enter_a_city_name(String)"
 });
 formatter.result({
-  "duration": 643820286,
+  "duration": 665124790,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_a_day()"
 });
 formatter.result({
-  "duration": 112037396,
+  "duration": 121042329,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_a_day()"
 });
 formatter.result({
-  "duration": 64965334,
+  "duration": 69479295,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.three_hourly_forecast_should_not_be_visible()"
 });
 formatter.result({
-  "duration": 157214375,
+  "duration": 157004995,
   "status": "passed"
 });
 formatter.scenario({
@@ -652,14 +652,14 @@ formatter.match({
   "location": "Steps.I_have_launched_Chrome()"
 });
 formatter.result({
-  "duration": 1951347332,
+  "duration": 1943756322,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.Navigated_to_the_weather_acceptance_website()"
 });
 formatter.result({
-  "duration": 1290383844,
+  "duration": 994407942,
   "status": "passed"
 });
 formatter.match({
@@ -672,21 +672,21 @@ formatter.match({
   "location": "Steps.I_enter_a_city_name(String)"
 });
 formatter.result({
-  "duration": 555151213,
+  "duration": 564266172,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_a_day()"
 });
 formatter.result({
-  "duration": 100539623,
+  "duration": 99172912,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.the_three_hourly_temperayure_summary_is_shown()"
 });
 formatter.result({
-  "duration": 396092251,
+  "duration": 396882554,
   "status": "passed"
 });
 });

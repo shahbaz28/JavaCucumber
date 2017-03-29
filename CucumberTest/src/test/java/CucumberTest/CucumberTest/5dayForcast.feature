@@ -28,8 +28,8 @@ And I verify that the five day forecast is displayed
 Examples:
    | name  |city |
    | Aberdeen |  Aberdeen  |
-  # | Dundee| Dundee |
-   #| Edinburgh | Edinburgh |
-   #| Glasgow | Glasgow |
-   #| Perth | Perth |
-   #| Stirling | Stirling |
+   | Dundee| Dundee |
+   | Edinburgh | Edinburgh |
+   | Glasgow | Glasgow |
+   | Perth | Perth |
+   | Stirling | Stirling |
